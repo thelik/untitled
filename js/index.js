@@ -10,7 +10,7 @@ oTop.onmousemove = function(){
 }
 
 function mouseMove(){
-	oTop.style.background = '#ffac38';
+	oTop.style.background = '#33cde5';
 	oH3.style.left = '-1500px';
 }
 
